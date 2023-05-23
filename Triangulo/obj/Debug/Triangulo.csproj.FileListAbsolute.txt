@@ -1,0 +1,22 @@
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\autologon\source\repos\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\autologon\source\repos\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\autologon\source\repos\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\Estevão Bresolin\Desktop\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\Estevão Bresolin\Desktop\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\Estevão Bresolin\Desktop\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\Estevão Bresolin\Desktop\Triangulo\obj\Debug\Triangulo.pdb
