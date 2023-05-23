@@ -1,0 +1,11 @@
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\bin\Debug\Peso.exe.config
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\bin\Debug\Peso.exe
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\bin\Debug\Peso.pdb
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.csproj.AssemblyReference.cache
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.Form1.resources
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.Properties.Resources.resources
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.csproj.GenerateResource.cache
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.csproj.CoreCompileInputs.cache
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.exe
+C:\Users\Estevão Bresolin\source\repos\Peso\Peso\obj\Debug\Peso.pdb
