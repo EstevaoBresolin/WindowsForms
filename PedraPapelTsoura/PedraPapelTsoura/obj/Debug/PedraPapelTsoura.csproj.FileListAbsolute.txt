@@ -1,0 +1,11 @@
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.csproj.AssemblyReference.cache
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.Form1.resources
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.Properties.Resources.resources
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.csproj.GenerateResource.cache
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.csproj.CoreCompileInputs.cache
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\bin\Debug\PedraPapelTsoura.exe.config
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\bin\Debug\PedraPapelTsoura.exe
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\bin\Debug\PedraPapelTsoura.pdb
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.exe
+C:\Users\Estevão Bresolin\source\repos\PedraPapelTsoura\PedraPapelTsoura\obj\Debug\PedraPapelTsoura.pdb
