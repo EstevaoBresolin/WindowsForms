@@ -1,0 +1,22 @@
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\Campo minado.csproj.AssemblyReference.cache
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\Campo minado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.btnReiniciar.resources
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\Campo minado.csproj.GenerateResource.cache
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\Campo minado.csproj.CoreCompileInputs.cache
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Estevão Bresolin\Desktop\Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\Campo Minado.csproj.AssemblyReference.cache
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\Campo Minado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.btnReiniciar.resources
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\Campo Minado.csproj.GenerateResource.cache
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\Campo Minado.csproj.CoreCompileInputs.cache
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Estevão Bresolin\Desktop\Trabalho Campo minado\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
