@@ -1,0 +1,22 @@
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.SuggestedBindingRedirects.cache
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão_Bresolin.Form1.resources
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão_Bresolin.Properties.Resources.resources
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.GenerateResource.cache
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\bin\Debug\Estevão Bresolin.exe.config
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\bin\Debug\Estevão Bresolin.exe
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\bin\Debug\Estevão Bresolin.pdb
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.exe
+C:\Users\autologon\source\repos\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.pdb
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\bin\Debug\Estevão Bresolin.exe.config
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\bin\Debug\Estevão Bresolin.exe
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\bin\Debug\Estevão Bresolin.pdb
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.SuggestedBindingRedirects.cache
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão_Bresolin.Form1.resources
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão_Bresolin.Properties.Resources.resources
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.GenerateResource.cache
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.exe
+C:\Users\autologon\Desktop\Estevão Bresolin\Estevão Bresolin\obj\Debug\Estevão Bresolin.pdb
